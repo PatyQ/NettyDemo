@@ -22,6 +22,7 @@
     </build>
     <modules>
         <module>nettydemotest2</module>
+        <module>WebSocketDemo</module>
     </modules>
 
     <dependencies>
